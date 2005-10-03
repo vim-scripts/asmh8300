@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1373
+
+My work is writing firmware of H8 mpu now. So I need a better syntax file than old one. I try to improve the official syntax file. My improved one will highlight the keywords more correctly, and highlight the branch command , like "bhi, blo, ..." with different color. 
